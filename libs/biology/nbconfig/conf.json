@@ -1,0 +1,9 @@
+{
+  "pid": "JuFhE84jRhEh",
+  "loginAuth": "/web/v1/login/auto_check_login",
+  "authAction": {
+    "notLogin": { "redirectURL": "/?return_url=" },
+    "notVip": { "redirectURL": "/buy.html" }
+  },
+  "tokenAuth": "/api/v1/vip/info"
+}
